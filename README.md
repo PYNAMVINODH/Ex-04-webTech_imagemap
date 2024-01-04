@@ -38,7 +38,7 @@ Execute the program and see the result
             <font color="red"><b>Thirupathi</b></font>
         </h1>
         <h2 align="center">
-            <font color="violet"><b>Jeshwanth kumar 23002519</b></font>
+            <font color="violet"><b>PYNAM VINODH 23004069</b></font>
         </h2>
         <center>
             <img src="map.png" usemap="#image_map">
